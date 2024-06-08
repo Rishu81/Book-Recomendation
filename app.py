@@ -46,16 +46,16 @@ if st.button('Show Recommendation'):
     c1,c2,c3,c4,c5 = st.columns(5)
     with c1:
         st.text(recommendation_books[0])
-        # st.image(poster_url[0])
+        st.image(poster_url[0])
     with c2:
         st.text(recommendation_books[1])
-        # st.image(poster_url[1])
+        st.image(poster_url[1])
     with c3:
         st.text(recommendation_books[2])
-        # st.image(poster_url[2])
+        st.image(poster_url[2])
     with c4:
         st.text(recommendation_books[3])
-        # st.image(poster_url[3])
+        st.image(poster_url[3])
     with c5:
         st.text(recommendation_books[4])
-        # st.image(poster_url[4])
+        st.image(poster_url[4])
