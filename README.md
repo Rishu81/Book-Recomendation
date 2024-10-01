@@ -5,7 +5,7 @@
 
 Welcome to the **Book Recommendation System**! This project aims to recommend books based on user preferences, leveraging machine learning and data science techniques to provide personalized recommendations. Whether you're a casual reader or an avid book lover, this tool will help you discover books tailored to your tastes. 🌟
 
-![Book Recommendations GIF](https://media.giphy.com/media/1TKqXWt519Av4cuZoc/giphy.gif)
+![Book Recommendations GIF](https://media.giphy.com/media/xTkcEBU05KtjkMdSfK/giphy.gif)
 
 ## 🌟 Features
 - 📖 **Collaborative Filtering**: Recommends books based on user behavior and interactions.
